@@ -10,7 +10,7 @@ youki is an OCI container runtime written in Rust. youki has WasmEdge baked in. 
 
 1. Build and configure youki with WasmEdge support
 
-   We will use Ubuntu 20.04 as an example. For other OS, please [see here](https://containers.github.io/youki/user/basic_setup.html).
+   We will use Ubuntu 20.04 as an example. For other OS, please [see here](https://youki-dev.github.io/youki/user/basic_setup.html).
 
    Run the following command line to build and install youki on your machine.
 
